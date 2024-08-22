@@ -1,0 +1,6 @@
+1. Add Signup and log in class for admin and user, also add function that if person
+has already signed up it should give that " this account already exists"
+2. Write remove and changing method with string instead of map
+3. add option that shows which languages dictionaries i have also give 2 option that use already ( do for both admin and user)
+existing ones or create new one
+4. add function that knows az-eng and eng-az and know that same file
